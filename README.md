@@ -19,7 +19,7 @@ I'm Stelios Gkougkougiannis, a passionate electical and computer engineering stu
 <!-- Add more badges for your tech stack -->
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?sgkougkou=sgkougkou&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sgkougkou&show_icons=true&theme=radical)
 
 <!-- ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
