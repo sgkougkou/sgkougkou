@@ -4,7 +4,7 @@ I'm Stelios Gkougkougiannis, a passionate electical and computer engineering stu
 
 ### 🚀 About Me
 <!-- - 🔭 I’m  working on **[Your Current Project]** -->
-- 🌱 I’m currently learning **HTML , CSS and Native JavaScript**
+- 🌱 I’m currently learning **HTML , CSS and JavaScript.**
 <!-- - 💬 Ask me about **[Your Expertise]**
 - 📫 Reach me at **[Your Contact Info]**
 - ⚡ Fun fact: **[Something Interesting About You]** -->
@@ -19,7 +19,7 @@ I'm Stelios Gkougkougiannis, a passionate electical and computer engineering stu
 <!-- Add more badges for your tech stack -->
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?sgkougkou=sgkougkou&show_icons=true&theme=radical)
 
 <!-- ### 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
