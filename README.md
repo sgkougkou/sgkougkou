@@ -15,6 +15,7 @@ I'm Stelios Gkougkougiannis, a passionate electical and computer engineering stu
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="50/>"
 </div>
 
 
