@@ -23,6 +23,7 @@ I'm Stelios Gkougkougiannis, a passionate electical and computer engineering stu
 </p>
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sgkougkou&show_icons=true&theme=radical)
 
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=sgkougkou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgkougkou&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgkougkou&layout=compact)
