@@ -7,11 +7,20 @@ I'm Stelios Gkougkougiannis, a passionate electical and computer engineering stu
 
 ### 🛠 Tech Stack
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Docker_Logo.svg" alt="Docker" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
-</div>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>
+  </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50"/>
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sgkougkou&show_icons=true&theme=radical)
